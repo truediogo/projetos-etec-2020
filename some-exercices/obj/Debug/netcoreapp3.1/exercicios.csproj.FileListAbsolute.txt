@@ -1,0 +1,11 @@
+C:\Users\diogo\source\repos\exercicios\obj\Debug\netcoreapp3.1\exercicios.csprojAssemblyReference.cache
+C:\Users\diogo\source\repos\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfo.cs
+C:\Users\diogo\source\repos\exercicios\bin\Debug\netcoreapp3.1\exercicios.exe
+C:\Users\diogo\source\repos\exercicios\bin\Debug\netcoreapp3.1\exercicios.deps.json
+C:\Users\diogo\source\repos\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.json
+C:\Users\diogo\source\repos\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.dev.json
+C:\Users\diogo\source\repos\exercicios\bin\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\diogo\source\repos\exercicios\bin\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\diogo\source\repos\exercicios\obj\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\diogo\source\repos\exercicios\obj\Debug\netcoreapp3.1\exercicios.pdb

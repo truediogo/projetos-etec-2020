@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    tools:context=".imcResultsActivity">
+
+
+    <TextView
+        android:id="@+id/homeTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="96dp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="@string/resultTitle"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/imcInfoResult"
+        android:layout_width="332dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="96dp"
+        android:text="@string/resultTips"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imcResult" />
+
+    <Button
+        android:id="@+id/backGetData"
+        android:layout_width="127dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="128dp"
+        android:background="@drawable/rounded_button"
+        android:elevation="0dp"
+        android:text="@string/back"
+        android:textColor="#FFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="48dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageView
+            android:id="@+id/progress1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:contentDescription="@string/progress_1"
+            app:srcCompat="@drawable/circle_stroke"
+            tools:layout_editor_absoluteX="197dp"
+            tools:layout_editor_absoluteY="669dp" />
+
+        <ImageView
+            android:id="@+id/progress2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:contentDescription="@string/progress_2"
+            app:srcCompat="@drawable/circle_stroke"
+            tools:layout_editor_absoluteX="197dp"
+            tools:layout_editor_absoluteY="669dp" />
+
+        <ImageView
+            android:id="@+id/progress3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:contentDescription="@string/progress_3"
+            app:srcCompat="@drawable/circle"
+            tools:layout_editor_absoluteX="197dp"
+            tools:layout_editor_absoluteY="669dp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/imcResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="96dp"
+        android:fontFamily="@font/roboto_bold"
+        android:textSize="42sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/homeTitle"
+        tools:text="Resultado IMC" />
+</androidx.constraintlayout.widget.ConstraintLayout>

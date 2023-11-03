@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="homeDesc">O índice de massa corporal (IMC) é uma medida usada para calcular se você está no peso ideal, vamos conferir ?</string>
+    <string name="homeTitle">Calculo do IMC</string>
+    <string name="homeImgInfo">Imagem representando IMC</string>
+    <string name="beginBtn">Começar</string>
+    <string name="progress_2">Progress 2</string>
+    <string name="progress_3">Progress 3</string>
+    <string name="progress_1">Progress 1</string>
+    <string name="titleGetData">Vamos lá!</string>
+    <string name="getDataInfo">Para realizar o cálculo informe seu peso e altura nos campos abaixo.</string>
+    <string name="back">Voltar</string>
+    <string name="results">Continuar</string>
+    <string name="weight">Peso</string>
+    <string name="height">Altura</string>
+    <string name="weight_tip">Ex.: 85</string>
+    <string name="height_tip">Ex.: 1.87</string>
+    <string name="resultTitle">O seu IMC é</string>
+    <string name="resultTips">Dicas</string>
+    <string name="emptyWeight">O campo peso está vazio!</string>
+    <string name="emptyHeight">O campo altura está vazio!</string>
+</resources>
