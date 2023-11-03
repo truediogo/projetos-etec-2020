@@ -1,0 +1,11 @@
+C:\Users\diogo\source\repos\bank-simulator\bin\Debug\netcoreapp3.1\bank-simulator.exe
+C:\Users\diogo\source\repos\bank-simulator\bin\Debug\netcoreapp3.1\bank-simulator.deps.json
+C:\Users\diogo\source\repos\bank-simulator\bin\Debug\netcoreapp3.1\bank-simulator.runtimeconfig.json
+C:\Users\diogo\source\repos\bank-simulator\bin\Debug\netcoreapp3.1\bank-simulator.runtimeconfig.dev.json
+C:\Users\diogo\source\repos\bank-simulator\bin\Debug\netcoreapp3.1\bank-simulator.dll
+C:\Users\diogo\source\repos\bank-simulator\bin\Debug\netcoreapp3.1\bank-simulator.pdb
+C:\Users\diogo\source\repos\bank-simulator\obj\Debug\netcoreapp3.1\bank-simulator.csprojAssemblyReference.cache
+C:\Users\diogo\source\repos\bank-simulator\obj\Debug\netcoreapp3.1\bank-simulator.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\bank-simulator\obj\Debug\netcoreapp3.1\bank-simulator.AssemblyInfo.cs
+C:\Users\diogo\source\repos\bank-simulator\obj\Debug\netcoreapp3.1\bank-simulator.dll
+C:\Users\diogo\source\repos\bank-simulator\obj\Debug\netcoreapp3.1\bank-simulator.pdb
